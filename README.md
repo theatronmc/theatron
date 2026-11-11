@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.theatronmc.com/"><img src="https://raw.githubusercontent.com/theatronmc/.github/main/banner-tight.png" alt="Theatron logo above a Minecraft world at night" width="900"></a>
+  <a href="https://www.theatronmc.com/"><img src="https://raw.githubusercontent.com/theatronmc/.github/main/banner-original-cropped.png" alt="Theatron logo above a Minecraft world at night" width="900"></a>
 </p>
 
 # Theatron
