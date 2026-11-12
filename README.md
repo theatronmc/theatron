@@ -27,6 +27,7 @@ Apeyron Cloud will run this same core. Its payment processing, hosted operations
 ## Related repositories
 
 - [Launcher](https://github.com/theatronmc/launcher) — desktop app for creating local Minecraft servers and connecting them to Cloud or a self-hosted instance.
+- [Relay](https://github.com/theatronmc/relay) — optional Rust multiplayer address service; source release is in preparation.
 - [Extension template](https://github.com/theatronmc/extension-template) — a future starter for independent Kotlin extensions.
 - [Extension registry](https://github.com/theatronmc/extension-registry) — a future reviewed index of community extensions.
 - [Documentation](https://github.com/theatronmc/docs) — the Astro Starlight site source; release and self-host guides will arrive with tested artifacts.
